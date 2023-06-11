@@ -1,0 +1,32 @@
+Credits 
+Featuring vertically scrolling centered
+Arial Font credits of size 35; 
+a hand drawn sprite animation of an
+astronaut walking in space 
+which consists of 6 poses
+and a rocket landing sprite animation 
+which consists of 13 poses 
+created in Paint with a layer scrolling 
+backgrounds containing hand drawn elements 
+and graphical primitives created in Paint.
+
+3D Animation made using Processing based
+on the topic "Keele in Space"
+
+FEATURES USED
+- Hand drawn sprite animation
+- Modular Arithmetic
+- Layer Scrolling
+- Multimedia
+
+AUDIO USED
+- Space Ambient Music 
+- Relaxing music 
+- Rocket Flying sound
+- Rocket Landing sound
+- Portal sound
+
+All music and sound used are
+found through non-copyright sources
+
+THANK YOU :)
